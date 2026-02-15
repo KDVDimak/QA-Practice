@@ -1,0 +1,4 @@
+Steps:
+1. Have at least 1 transaction
+2. Click delete icon
+Expected: Transaction removed from list
