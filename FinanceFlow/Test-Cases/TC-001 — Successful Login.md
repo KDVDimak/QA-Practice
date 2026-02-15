@@ -4,5 +4,6 @@ Steps:
 1. Enter valid email
 2. Enter valid password
 3. Click Login
+
 Expected Result: User is logged into the dashboard
 
