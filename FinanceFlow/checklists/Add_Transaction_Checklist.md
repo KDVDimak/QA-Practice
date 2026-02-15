@@ -1,4 +1,4 @@
-Add Transaction Checklist
+## Add Transaction Checklist
 
 1.Open Add Transaction form
 
